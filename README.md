@@ -16,4 +16,3 @@ O Sistema é resolvido pela Regra de Cramer, para o calculo das determinates foi
 ## Autor
 
 - [Gabriel Derrel](https://github.com/gabriel0derrel)
-- [Lucas Pereira Nunes](https://github.com/Prizrak2)
